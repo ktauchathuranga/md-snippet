@@ -18,3 +18,9 @@
 
 > **warning**  
 > Critical content demanding immediate user attention due to potential risks.
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |

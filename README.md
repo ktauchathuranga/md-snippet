@@ -24,3 +24,18 @@
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+
+
+---
+***
+___
+
+
+
+pie
+"Movies" : 80
+"TV shows" : 20
+
+
+

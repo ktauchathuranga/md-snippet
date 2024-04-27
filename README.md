@@ -64,3 +64,5 @@ Text that is not a quote
 import cv
 print("hi")
 ```
+
+[Duck Duck Go](https://duckduckgo.com)
